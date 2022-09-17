@@ -8,7 +8,7 @@
                     </template>
                 </van-image>
             </div>
-            <div class="ub ub-pc name">{{val.name}}</div>
+            <div class="name">{{val.name}}</div>
             <div class="ub ub-pc type">{{val.type}}</div>
         </div>
     </div>
@@ -56,6 +56,7 @@ export default {
         }
 
         .name {
+            text-align: center;
             font-size: 20px;
             color: #222;
             overflow: hidden;
