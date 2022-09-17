@@ -1,6 +1,6 @@
 const path = require("path");
 const isProduction = process.env.NODE_ENV === "production";
-const baseUrl = isProduction ? "./" : "";
+const baseUrl = isProduction ? "/vue3_ts_app/" : "/";
 
 function resolve(dir) {
   return path.join(__dirname, "./", dir);
