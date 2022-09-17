@@ -1,4 +1,6 @@
-# vue_ts_app
+# vue_ts_app 
+# 基于vue3.0 + TypeScript , UI框架Vant
+# author ： 阙家就
 
 ## Project setup 
 ## 安装依赖
@@ -24,11 +26,17 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### 需求说明
-./demand.text
+
+### 需求说明 项目功能描述
+### ./demand.text
+
+# 项目github运行地址
+https://quejiajiu.github.io/vue3_ts_app/
+
+# github 仓库
+https://github.com/quejiajiu/vue3_ts_app/tree/master
+
 
 
 

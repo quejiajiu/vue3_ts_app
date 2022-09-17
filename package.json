@@ -1,6 +1,13 @@
 {
   "name": "vue_ts_app",
   "version": "0.1.0",
+  "author": "quejiajiu <775773863@qq.com>",
+  "description": "Vue3+TypeScript+Vant 展示App Store应用",
+  "keywords": [
+    "Vue3",
+    "TypeScript",
+    "App Store"
+  ],
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
