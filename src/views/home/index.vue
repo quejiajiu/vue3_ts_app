@@ -120,7 +120,7 @@ export default {
       Promise.all([
         getTopListData(),
         getAppList(),
-        getAppListSearch()
+        // getAppListSearch()
       ]).then(() => {
         Toast.clear()
       })

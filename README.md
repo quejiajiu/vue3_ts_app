@@ -26,6 +26,12 @@ npm run build
 npm run lint
 ```
 
+###  Run your jest tests
+### 单元测试
+```
+npm run test
+```
+
 
 
 ### 需求说明 项目功能描述
